@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+}
+
+.flex {
+    flex: 1;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.col {
+    flex-direction: column;
+}
+
+
+.v-center {
+    align-items: center;
+}
+
+.h-center {
+    justify-content: center;
+}
+

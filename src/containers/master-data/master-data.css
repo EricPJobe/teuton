@@ -1,0 +1,53 @@
+.md-container {
+    background-color: #0F1624;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.table-container {
+    height: 90%;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #212C3E;
+}
+
+.table-container-left {
+    margin: 20px 10px 20px 20px
+}
+.table-container-right {
+    margin: 20px 20px 20px 10px
+}
+
+.title-bar {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: linear-gradient(270deg, rgba(35,54,78,1) 11%, rgba(35,54,78,1) 30%, rgba(34,83,96,1) 79%) rgb(35,54,78);
+    color: #10ECE5;
+    /*color: #ACC8F3;*/
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.title-bar-text {
+    margin-left: 10px;
+}
+
+.add-button {
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    margin: 10px;
+    background-color: #215360;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.link {
+    color: #10ECE5;
+    text-decoration: none;
+}

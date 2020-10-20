@@ -1,0 +1,13 @@
+.viewer-container {
+    background-color: #0F1624;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.add-card {
+    color: #212C3E;
+    font-size: 2em;
+    margin: 20px;
+    cursor: pointer;
+}
